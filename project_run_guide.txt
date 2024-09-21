@@ -1,0 +1,8 @@
+--> for run frontend
+
+Step 1 : cd Frontend
+Step 2 : npm run dev
+
+--> for run Backend
+Step 1 : cd Backend
+Step 2 : nodemon index.js or node index.js
